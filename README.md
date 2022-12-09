@@ -11,6 +11,7 @@ Web ui for yolov5 using Streamlit
 * Run streamlit from `app` folder: `streamlit run app.py`
 
 ## Deploy to Huggingface space
+- [huggingface.co/spaces/robmarkcole/yolov5-ui](https://huggingface.co/spaces/robmarkcole/yolov5-ui)
 - [spaces docs](https://huggingface.co/docs/hub/spaces)
 
 ## References
