@@ -2,7 +2,7 @@
 Web ui for yolov5 using Streamlit
 
 <p align="center">
-<img src="assets/usage.png" width="600">
+<img src="assets/usage.png" width="900">
 </p>
 
 ## Related projects
