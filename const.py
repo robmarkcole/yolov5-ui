@@ -3,7 +3,7 @@ RED = (255, 0, 0)  # For objects within the ROI
 GREEN = (0, 255, 0)  # For ROI box
 YELLOW = (255, 255, 0)  # For objects outside the ROI
 
-DEFAULT_IMAGE = "assets/farm.jpg"
+DEFAULT_IMAGE = "demo.jpg"
 
 PRETRAINED_MODELS = [
     "yolov5n",

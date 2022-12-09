@@ -10,6 +10,9 @@ Web ui for yolov5 using Streamlit
 * Install requirements: `pip install -r requirements.txt`
 * Run streamlit from `app` folder: `streamlit run app.py`
 
+## Deploy to Huggingface space
+- [spaces docs](https://huggingface.co/docs/hub/spaces)
+
 ## References
 - [Yolov5 docs for torchhub](https://github.com/ultralytics/yolov5/issues/36)
 - [Yolov5 on torchhub](https://pytorch.org/hub/ultralytics_yolov5/)
