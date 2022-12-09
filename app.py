@@ -62,7 +62,7 @@ if img_file_buffer is not None:
 else:
     pil_image = Image.open(const.DEFAULT_IMAGE)
 
-st.text(f"Input image width and height: {pil_image.width} x {pil_image.width}")
+st.text(f"Input image width and height: {pil_image.width} x {pil_image.height}")
 start_time = time.time()
 results = model(pil_image, size=img_size)
 end_time = time.time()
